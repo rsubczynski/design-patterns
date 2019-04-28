@@ -1,8 +1,8 @@
-package kreacyjne.obserwator.homework;
+package behawioralne.obserwator.homework;
 
-import kreacyjne.obserwator.homework.forecast.InternetNews;
-import kreacyjne.obserwator.homework.forecast.RadioNews;
-import kreacyjne.obserwator.homework.forecast.TvNews;
+import behawioralne.obserwator.homework.forecast.InternetNews;
+import behawioralne.obserwator.homework.forecast.RadioNews;
+import behawioralne.obserwator.homework.forecast.TvNews;
 
 
 public class Main {

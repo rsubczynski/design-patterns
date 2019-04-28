@@ -1,6 +1,6 @@
-package kreacyjne.obserwator.homework;
+package behawioralne.obserwator.homework;
 
-import kreacyjne.obserwator.homework.forecast.Observer;
+import behawioralne.obserwator.homework.forecast.Observer;
 
 public interface Observable {
 

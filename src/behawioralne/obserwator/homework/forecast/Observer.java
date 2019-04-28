@@ -1,6 +1,6 @@
-package kreacyjne.obserwator.homework.forecast;
+package behawioralne.obserwator.homework.forecast;
 
-import kreacyjne.obserwator.homework.WeatherForecast;
+import behawioralne.obserwator.homework.WeatherForecast;
 
 public interface Observer {
     default void updateForecast(WeatherForecast weatherForecast) {

@@ -1,6 +1,6 @@
-package kreacyjne.obserwator.order;
+package behawioralne.obserwator.order;
 
-import kreacyjne.obserwator.notification.Observer;
+import behawioralne.obserwator.notification.Observer;
 
 public interface Observable {
 

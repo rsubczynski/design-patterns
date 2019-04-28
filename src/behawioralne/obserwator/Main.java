@@ -1,10 +1,10 @@
-package kreacyjne.obserwator;
+package behawioralne.obserwator;
 
-import kreacyjne.obserwator.notification.Email;
-import kreacyjne.obserwator.notification.MobileApp;
-import kreacyjne.obserwator.notification.TextMessage;
-import kreacyjne.obserwator.order.Order;
-import kreacyjne.obserwator.order.OrderStatus;
+import behawioralne.obserwator.notification.Email;
+import behawioralne.obserwator.notification.MobileApp;
+import behawioralne.obserwator.notification.TextMessage;
+import behawioralne.obserwator.order.Order;
+import behawioralne.obserwator.order.OrderStatus;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package kreacyjne.obserwator.notification;
+package behawioralne.obserwator.notification;
 
-import kreacyjne.obserwator.order.Order;
+import behawioralne.obserwator.order.Order;
 
 public class TextMessage implements Observer {
 

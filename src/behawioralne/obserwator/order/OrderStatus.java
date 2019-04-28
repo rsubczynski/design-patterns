@@ -1,4 +1,4 @@
-package kreacyjne.obserwator.order;
+package behawioralne.obserwator.order;
 
 public enum OrderStatus {
 
