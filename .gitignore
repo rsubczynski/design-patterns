@@ -10,8 +10,4 @@ gen
 .idea/
 design-patterns.iml
 out/
-src/Main.java
-src/behawioralne/
-src/kreacyjne/factory/
-src/kreacyjne/singleton/
-src/strukturalne/
+
