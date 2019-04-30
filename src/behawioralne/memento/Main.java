@@ -14,7 +14,6 @@ public class Main {
         smartApp.changeVersion(2.0);
         smartApp.changeVersion(3.0);
 
-
         smartAppCareTaker.addMemento(smartApp.save());
         smartApp.load(smartAppCareTaker.getMemento(0));
     }
