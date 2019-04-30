@@ -23,5 +23,5 @@ public class Main {
         List<Activity> activities = Arrays.asList(squash, treadmill, weights);
         activities.forEach(activity -> activity.accept(visitor));
     }
-    
+
 }
