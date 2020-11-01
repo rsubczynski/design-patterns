@@ -71,7 +71,7 @@ public class House {
         private String doors;
         private String garage;
 
-        public HouseBuilder buiildWalls(String walls){
+        public HouseBuilder buildWalls(String walls){
             this.walls = walls;
             return this;
         }
@@ -81,17 +81,17 @@ public class House {
             return this;
         }
 
-        public HouseBuilder buiildRooms(String rooms){
+        public HouseBuilder buildRooms(String rooms){
             this.rooms = rooms;
             return this;
         }
 
-        public HouseBuilder buiildRoof(String roof){
+        public HouseBuilder buildRoof(String roof){
             this.roof = roof;
             return this;
         }
 
-        public HouseBuilder buiildWindows(String windows){
+        public HouseBuilder buildWindows(String windows){
             this.windows = windows;
             return this;
         }
@@ -101,7 +101,7 @@ public class House {
             return this;
         }
 
-        public HouseBuilder buiildGarage(String garage){
+        public HouseBuilder buildGarage(String garage){
             this.garage = garage;
             return this;
         }
